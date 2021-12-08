@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f320f8a7-96cc-49fe-a150-184ac6064424/deploy-status)](https://app.netlify.com/sites/optimistic-clarke-41fd9a/deploys)
+
 Built-in feature from Next.js:
 
 - ☕ Minify HTML & CSS
